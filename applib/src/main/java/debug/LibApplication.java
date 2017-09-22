@@ -1,4 +1,4 @@
-package com.yltx.applib;
+package debug;
 
 import android.app.Application;
 
